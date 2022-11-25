@@ -1,0 +1,27 @@
+{
+  "name": "screen-change-lmb-click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lmb.py",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMateo20/Click-LMB-after-screen-change.git"
+  },
+  "keywords": [
+    "lmb",
+    "screen",
+    "click"
+  ],
+  "author": "ItsMateo20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsMateo20/Click-LMB-after-screen-change/issues"
+  },
+  "homepage": "https://github.com/ItsMateo20/Click-LMB-after-screen-change#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
